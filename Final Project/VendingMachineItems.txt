@@ -1,0 +1,9 @@
+Snickers	$1	6
+Butterfingers	$1	12
+Milky Way	$1.50	18
+KitKat	$1	24
+Krispy Kreme	$5	30
+Coke	$1.50	36
+Dr.Pepper	$1.50	42
+Sprite	$1.50	48
+GF on a Platter	$7.50	54
