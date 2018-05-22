@@ -19,8 +19,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="angle change" Type="VI" URL="../angle change"/>
 		<Item Name="Control 1.ctl" Type="VI" URL="../../Exercises/Weather Station/Supporting Files/Control 1.ctl"/>
 		<Item Name="CountTeeth.vi" Type="VI" URL="../CountTeeth.vi"/>
+		<Item Name="global.vi" Type="VI" URL="../global.vi"/>
 		<Item Name="Item.ctl" Type="VI" URL="../Item.ctl"/>
 		<Item Name="MainControlPane.vi" Type="VI" URL="../MainControlPane.vi"/>
 		<Item Name="MoveMotor.vi" Type="VI" URL="../MoveMotor.vi"/>
@@ -34,7 +36,6 @@
 				<Item Name="Convert 1DWfm to DDT.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/miscellaneous.llb/Convert 1DWfm to DDT.vi"/>
 				<Item Name="Convert DDT to 1DDbl.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/miscellaneous.llb/Convert DDT to 1DDbl.vi"/>
 				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
-				<Item Name="DAQmx Control Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Control Task.vi"/>
 				<Item Name="DAQmx Create Channel (AI-Acceleration-4 Wire DC Voltage).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Acceleration-4 Wire DC Voltage).vi"/>
 				<Item Name="DAQmx Create Channel (AI-Acceleration-Accelerometer).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Acceleration-Accelerometer).vi"/>
 				<Item Name="DAQmx Create Channel (AI-Acceleration-Charge).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create Channel (AI-Acceleration-Charge).vi"/>
